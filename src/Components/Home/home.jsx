@@ -275,7 +275,7 @@ const Home = () => {
 
                                     </div>
                                     <div className='inputsetRadio'>
-                                        <label className="label">Would you love to ride Exotic car for 10K (Lifetime Premium Membership Included)*
+                                        <label className="label">Would you like to enjoy a ride in an exotic car along with our lifetime premium membership (all inclusive for under 10K)?*
                                         </label> <br /> <br />
                                         <div className='radio-opt'>
                                             <input
